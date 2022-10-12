@@ -1,1 +1,2 @@
 This is first fiiel in git hub
+Know we are learning about git clone and git pull and git commit and git push commmands in git 
